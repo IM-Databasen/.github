@@ -1,1 +1,1 @@
-# .github
+# Informasjonsteknologi OG medieproduksjon's databasen
